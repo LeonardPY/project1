@@ -10,4 +10,5 @@ def f():
 
 def creat_tabel():
     for i in range(180):
-        print(i)
+        turtle.forward(12)
+        turtle.left(60)
