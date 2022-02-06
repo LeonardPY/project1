@@ -7,4 +7,7 @@ def f():
 
     turtle.mainloop()
 
-f()
+
+def creat_tabel():
+    for i in range(180):
+        print(i)
